@@ -1,0 +1,15 @@
+{
+    "name": "owner/php-custom-validator",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Narek",
+            "email": "vardapetyannarek1@gmail.com"
+        }
+    ],
+    "require": {}
+}
